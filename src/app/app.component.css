@@ -1,0 +1,38 @@
+.header{
+    height: 200px;
+    background-color: rgb(21, 92, 136);
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    /* line-height: 200px; */
+}
+
+.options{
+    background-color: white;
+}
+
+.mat-table {
+    width: 100%;
+}
+
+.mat-form-field{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.paragraph-text {
+    text-align: justify;
+    margin-top: 20px;
+    max-width: 800px;
+    margin-left: 30px;
+    margin-right: 30px;
+}

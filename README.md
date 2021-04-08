@@ -2,26 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
-## Development server
+## What does this tool do?
+Provide some simple challenges to the user to achieve cultural diversity in workforce by allowing them to manipulate parameters.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## What parameters are considered?
+1. Gender percentage by industry (must be able to add arbitrary industries with their gender ratio and industry pay)
+2. Individual competency (must be able to )
+3. Diversity factor (how much having a diverse workforce improves productivity)
+4. Individual toxicity
+5. Average industry pay
+6. Competency factor (how much does the total competency of team improve productivity)
+7. Company hiring behaviour
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## What results are requested?
+1. Team productivity
+2. Gender pay-gap
